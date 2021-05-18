@@ -12,9 +12,7 @@ const about = () => {
             <span>Our </span>Company
           </h3>
           <h6 className='section-subtitle mr-auto ml-auto'>
-            Individualized quality care that meets the total needs of the
-            patient Individualized quality care that quality care that
-            Individualized quality care that meets the total.
+            We create and host photos and videos and allow people and companies to access them for presentations, websites, and a host of other purposes.
           </h6>
         </div>
         <div className='section-content'>
@@ -28,21 +26,13 @@ const about = () => {
               <h3 className='about-title'>About us</h3>
               <div className='about-description'>
                 <p>
-                  Curabitur aliquet quam id dui posuere blandit. Donec
-                  sollicitudin molestie malesuada Pellentesque ipsum id orci
-                  porta dapibus. Vivamus suscipit tortor eget felis porttitor
-                  volutpat.
+                  We are here to provide another source of income to photographers, videographers, and artists, and they receive over 90% of the cut.
                 </p>
                 <p>
-                  Neque porro quisquam est, qui dolorem ipsum quia dolor , sed
-                  quia non numquam eius modi tempora incidunt ut labore et
-                  dolore magnam aliquam quaerat voluptatem. Nisi ut aliquid ex
-                  ea commodi consequatur?
+                  If you're a photographer, videographer, or artist and want to make some passive income from your hardwork, consider hosting them with us and you will receive the vast majority of the proceeds.
                 </p>
                 <p>
-                  Quis autem vel eum iure reprehenderit qui in ea voluptate
-                  velit esse quam nihil molestiae consequatur, vel illum qui
-                  dolorem eum fugiat quo voluptas nulla pariatur
+                  
                 </p>
                 <button className='btn btn-primary rounded-0'>Read More</button>
               </div>

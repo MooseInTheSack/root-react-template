@@ -14,12 +14,21 @@ const sections = () => {
       <Home />
       <About />
       <Service />
+      <Contact />
+    </Fragment>
+  );
+};
+
+/*
+<Fragment>
+      <Home />
+      <About />
+      <Service />
       <Blog />
       <Facts />
       <Contact />
       <MapMarker />
     </Fragment>
-  );
-};
+*/
 
 export default sections;

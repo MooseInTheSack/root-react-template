@@ -15,8 +15,7 @@ const home = () => {
           <div className='intro container text-center text-light'>
             <h1 className='title'>WELCOME</h1>
             <h2 className='sub-title mb-4'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores
-              laborum minus molestiae.
+              Our new website is currently undergoing maintenance so most of the buttons don't do anything, but we'll be back online soon!
             </h2>
             <Link target='about' classes='btn btn-primary rounded-0 mr-2'>
               Learn More
