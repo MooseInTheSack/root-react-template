@@ -60,9 +60,7 @@ const Blog = () => {
                 <div className='card-body'>
                   <h5 className='card-title'>Business Deal</h5>
                   <p className='card-text'>
-                    Exercitation ullamco laboris nisi ut aliquip ex ea commodo.
-                    cillum dolore eu fugiat nulla pariatur commodo
-                    consequat.cillum dolore eu fugiat pariatur....
+                    Test Text
                   </p>
                   <a href='#!' className='btn btn-sm btn-primary'>
                     Read More

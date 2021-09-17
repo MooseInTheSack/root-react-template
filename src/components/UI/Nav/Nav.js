@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 import Link from '../Link/Link';
+import './Nav.css';
 
 const Nav = () => {
   const [navClass, setNavClass] = useState('');
@@ -44,6 +45,15 @@ const Nav = () => {
             return '';
           })()}`}
         >
+          <div class="wrap">
+            <div class="search">
+              <input type="text" class="searchTerm" id="input_text"></input>
+              <button type="submit" class="searchButton">
+                <i class="fa fa-search"></i>
+              </button>
+            </div>
+          </div>
+
           <ul className='navbar-nav ml-auto'>
             <li className='nav-item'>
               <Link target='home' offset={-120} classes='nav-link'>

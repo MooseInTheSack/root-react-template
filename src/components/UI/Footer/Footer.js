@@ -14,10 +14,7 @@ const footer = () => {
             <div className='footer-content'>
               <p>
                 <small className='text-muted'>
-                  Aenean suscipit eget mi act fermentum phasellus vulputate
-                  turpis tincidunt. Aenean suscipit eget. Aenean suscipit eget
-                  mi act fermentum phasellus vulputate turpis tincidunt. Aenean
-                  suscipit ege Aenean suscipit eget mi act fermentum phasellus.
+                We create and host photos and videos and allow people and companies to access them for presentations, websites, and a host of other purposes.
                 </small>
               </p>
               <button className='btn btn-sm btn-primary rounded-0'>
@@ -58,18 +55,10 @@ const footer = () => {
             <div className='footer-content'>
               <p>
                 <small className='text-muted'>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  No new blog posts yet!
                 </small>
               </p>
-              <p>
-                <small className='text-muted'>
-                  Pellentesque et pulvinar enim. Quisque at tempor ligula Natus
-                  error sit voluptatem
-                </small>
-              </p>
-              <p>
-                <small className='text-muted'>accusantium doloremque</small>
-              </p>
+
             </div>
           </div>
           <div className='col-sm-6 col-md-6 col-lg-3 mb-5'>
@@ -78,13 +67,10 @@ const footer = () => {
             </div>
             <div className='footer-content'>
               <p className='text-muted'>
-                <small>Address : 123 main street, Algiers, Algeria</small>
+                <small>Phone : None yet!</small>
               </p>
               <p className='text-muted'>
-                <small>Phone : +213 (0) 123 456 789</small>
-              </p>
-              <p className='text-muted'>
-                <small>E-mail : contact@email.com</small>
+                <small>E-mail : support@tko.pics</small>
               </p>
               <div className='social-media mt-4'>
                 <a href='!#' className='text-light'>
